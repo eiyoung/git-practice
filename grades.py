@@ -1,7 +1,8 @@
+# gradebook v1.1 — 2주차 실습 시작
 # grades.py
 
-# gradebook v1.0 — 1주차 실습 완료
 SUBJECTS = ["국어", "영어", "수학", "과학탐구"]
+...
 
 def get_scores():
     """4개 과목의 점수를 입력받아 딕셔너리로 반환한다."""
